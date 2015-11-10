@@ -1,0 +1,5 @@
+{
+  "name": "safe-spire-6631",
+  "description": "An example app.json for heroku-docker",
+  "image": "heroku/php"
+}

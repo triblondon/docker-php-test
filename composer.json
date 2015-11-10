@@ -1,0 +1,9 @@
+{
+	"name": "ftlabs/safe-spire-6631",
+	"require": {
+		"ext-mbstring": "*"
+	},
+	"require-dev": {
+		"heroku/heroku-buildpack-php": "^82.0"
+	}
+}
